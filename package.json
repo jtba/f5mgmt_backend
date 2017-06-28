@@ -1,0 +1,26 @@
+{
+  "name": "cluster_management_api",
+  "version": "1.0.0",
+  "description": "Cluster Management API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "redacted"
+  },
+  "author": "Ryan Hartman",
+  "license": "ISC",
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "body-parser": "^1.17.0",
+    "express": "^4.15.2",
+    "forEachAsync": "^3.0.0",
+    "it_tools_logger": "^1.0.0",
+    "request": "^2.80.0",
+    "request-promise": "^4.1.1",
+    "utf8": "^2.1.2",
+    "valid-url": "^1.0.9"
+  }
+}
